@@ -1,0 +1,14 @@
+{
+  "name": "cadastro-homepage",
+  "version": "1.0.0",
+  "description": "Projeto de homepage com cadastro de usuário",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "lowdb": "^3.0.0"
+  }
+}

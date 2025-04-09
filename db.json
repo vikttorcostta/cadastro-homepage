@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "exemplo@dominio.com",
+      "nome": "Nome Exemplo",
+      "endereco": "Rua Exemplo, 123"
+    },
+    {
+      "email": "paulovictor@teste.com.br",
+      "nome": "Paulo Victor",
+      "endereco": "Rua Teste"
+    },
+    {
+      "email": "paulovictor@teste.com.br",
+      "nome": "Paulo Victor",
+      "endereco": "Rua Teste"
+    },
+    {
+      "email": "paulovictor@teste.com.br",
+      "nome": "Paulo Victor",
+      "endereco": "Rua Teste"
+    }
+  ]
+}
